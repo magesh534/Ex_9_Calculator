@@ -271,8 +271,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-<img src="Screenshot 2025-04-30 104359.png" width=70%>
 
+
+![Screenshot 2025-04-30 104359](https://github.com/user-attachments/assets/5357a11c-aff1-4417-ab0f-31ffc00a0c61)
 
 
 ## RESULT
